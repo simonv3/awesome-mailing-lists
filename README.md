@@ -12,6 +12,9 @@ I set this list up because I want to find more awesome listserves.
 
 * [Critical Geography](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=CRIT-GEOG-FORUM): This list provides a forum for the discussion of critical and radical perspectives in geography. Discussions focus on the organisational and disciplinary framework of geographical research and teaching and on critical interpretations of geographical issues. 
 
+# Economy
+* [Degrowth-World](https://lists.riseup.net/www/info/degrowth-world) This list is for everyone to share announcements and news related to degrowth. The idea is that we use this space to be updated on degrowth activities all over the world. Please join and send any relevant e-mails to the list. Sign up by e-mailing degrowth-world-subscribe@lists.riseup.net
+
 # Hosts
 
 * [Riseup](https://lists.riseup.net/www/): We provide mailing lists for activist organizations.
